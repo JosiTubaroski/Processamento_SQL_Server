@@ -1,4 +1,4 @@
-# Caso de uso de processamento de dados utilizando sql server?
+# Caso de uso de processamento de dados utilizando SQL Server
 
 ### Caso de Uso Prático: Pipeline de ETL para Processamento de Dados de Vendas com SQL Server
 
