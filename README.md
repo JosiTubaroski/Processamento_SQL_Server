@@ -33,7 +33,5 @@ Construir um pipeline de ETL (Extração, Transformação e Carga) para consolid
 
 - Utilização de scripts SQL e SSIS (SQL Server Integration Services) para extrair dados diretamente do SQL Server e carregar os arquivos CSV.
 
-  https://github.com/JosiTubaroski/Processamento_SQL_Server/blob/main/img/01_Script_CSV.png
-
-  <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/power-BI.jpg">
+  <img src="https://github.com/JosiTubaroski/Processamento_SQL_Server/blob/main/img/01_Script_CSV.png">
     
