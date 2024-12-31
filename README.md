@@ -48,5 +48,22 @@ Construir um pipeline de ETL (Extração, Transformação e Carga) para consolid
      
 <img src="https://github.com/JosiTubaroski/Processamento_SQL_Server/blob/main/img/03_Agregacao.png">
    
+ - Join entre fontes:
 
-   
+   - Unir dados de diferentes sistemas, como associar informações de pedidos às campanhas de marketing
+
+<img src="https://github.com/JosiTubaroski/Processamento_SQL_Server/blob/main/img/04_Exe_Join.png">
+    
+##### 3. Carga no Data Warehouse
+
+Os dados transformados são carregados em tabelas dimensionais e factuais no Data Warehouse para facilitar a geração de relatórios.
+
+Estrutura típica:
+
+  - Dimensão Cliente: Contém informações dos clientes.
+  - Dimensão Produto: Contém informações dos produtos vendidos.
+  - Fato Vendas: Contém dados de vendas agregados por cliente, produto e data.
+
+<img src="https://github.com/JosiTubaroski/Processamento_SQL_Server/blob/main/img/05_Insert_FatoVenda.png">
+
+
