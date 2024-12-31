@@ -66,4 +66,19 @@ Estrutura típica:
 
 <img src="https://github.com/JosiTubaroski/Processamento_SQL_Server/blob/main/img/05_Insert_FatoVenda.png">
 
+##### 4. Geração de Relatórios
 
+Os dados no Data Warehouse são acessados por ferramentas de BI, como Power BI ou Tableau, para criar relatórios como:
+
+ - Receita por região e período.
+ - Performance de campanhas de marketing.
+ - Análise de devoluções.
+
+## Benefícios:
+
+1. Centralização dos Dados: Todas as fontes são integradas em um único lugar.
+2. Performance: O uso de um Data Warehouse otimiza a consulta de grandes volumes de dados.
+3. Flexibilidade: Os dados transformados podem ser usados para diversas análise estratégicas.
+4. Automação: Com o uso de SSIS e scripts SQL, o processo de ETL pode ser agendado para rodar automaticamente.
+
+Esse é um exemplo prático de como o SQL Server pode ser utilizado para resolver problemas de processamento de dados, desde a coleta de informações até a entrega de dados acionáveis.
