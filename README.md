@@ -42,4 +42,11 @@ Construir um pipeline de ETL (Extração, Transformação e Carga) para consolid
   - Tratamento de campos nulos, substituindo por valores padrão ou marcando como "Desconhecido".
     
  <img src="https://github.com/JosiTubaroski/Processamento_SQL_Server/blob/main/img/02_Limpeza_Dados.png">
- 
+
+ - Cálculos e Agregações:
+   - Calcular valores como receita total, margem de lucro, e tempo médio de entrega.
+     
+<img src="https://github.com/JosiTubaroski/Processamento_SQL_Server/blob/main/img/03_Agregacao.png">
+   
+
+   
