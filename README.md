@@ -35,3 +35,11 @@ Construir um pipeline de ETL (Extração, Transformação e Carga) para consolid
 
   <img src="https://github.com/JosiTubaroski/Processamento_SQL_Server/blob/main/img/01_Script_CSV.png">
     
+##### 2. Transformação dos Dados
+
+- Limpeza de Dados:
+  - Remoção de duplicatas e registros inválidos.
+  - Tratamento de campos nulos, substituindo por valores padrão ou marcando como "Desconhecido".
+    
+ <img src="https://github.com/JosiTubaroski/Processamento_SQL_Server/blob/main/img/02_Limpeza_Dados.png">
+ 
